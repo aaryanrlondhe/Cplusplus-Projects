@@ -1,7 +1,8 @@
-# Chat Bot using Python GUI
+# Bank Record System using C++
+
 Hello, 
 
-This project is on an assistant that can speak and can give you a reply. It also has a microphone which can enable you to communicate freely. I hope you like this Assistant. Thank You !!
+This project is on a Bank Record System that can handle the accounts of the customers . It enable you to communicate freely. I hope you like this Project. Thank You !!
 
 📌Features:-
 
