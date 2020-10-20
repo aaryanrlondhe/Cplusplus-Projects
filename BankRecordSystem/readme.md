@@ -18,6 +18,10 @@ This project is on a Bank Record System that can handle the accounts of the cust
 
 6. Quit
 
+# *Output :-*
+
+![](Output.PNG)
+
 # *Contact Us :-*
 
 
