@@ -20,7 +20,7 @@ This project is on a Bank Record System that can handle the accounts of the cust
 
 # *Output :-*
 
-![](Output.PNG)
+![](Capture.PNG)
 
 # *Contact Us :-*
 
