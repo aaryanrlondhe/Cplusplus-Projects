@@ -1,4 +1,4 @@
-# Bank Record System using C++
+# Bank Management System using C++
 
 Hello, 
 
