@@ -6,7 +6,7 @@ This project is on a Snake Game . It is a single player game . I hope you like t
 
 # *Output :-*
 
-![](Capture.PNG)
+![](Output.png)
 
 # *Contact Us :-*
 
