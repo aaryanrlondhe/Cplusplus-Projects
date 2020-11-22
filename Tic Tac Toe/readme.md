@@ -6,7 +6,7 @@ This project is on a Tic-Tac-Toe Game . It is a Single Player Game Between You a
 
 # *Output :-*
 
-![](Capture.PNG)
+![](Output.PNG)
 
 # *Contact Us :-*
 
