@@ -2,7 +2,7 @@
 
 Hello, 
 
-This project is on a Tic-Tac-Toe Gam Game . It is a single player game between you and computer . I hope you like this Project. Thank You !!
+This project is on a Tic-Tac-Toe Game . It is a Single Player Game Between You and Computer . I hope you like this Project. Thank You !!
 
 # *Output :-*
 
